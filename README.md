@@ -1,2 +1,77 @@
-# Artifact-II
-The link of our presentation: https://mphcmiuedu.sharepoint.com/sites/OOPProject42/_layouts/15/stream.aspx?id=%2Fsites%2FOOPProject42%2FShared%20Documents%2FGeneral%2FRecordings%2FCu%E1%BB%99c%20h%E1%BB%8Dp%20k%C3%AAnh%20m%E1%BB%9Bi%2D20240616%5F001936%2DB%E1%BA%A3n%20ghi%20cu%E1%BB%99c%20h%E1%BB%8Dp%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E74005bb6%2D3fc8%2D4cef%2Db3d6%2D11bf1ae22056&fbclid=IwZXh0bgNhZW0CMTAAAR09OkjWmC4LMX%2DLlG4xSGGBdPFoJSf64nuMkMYCj%2DYKp1SJP1WBhW0rzto%5Faem%5FZmFrZWR1bW15MTZieXRlcw
+# Artifact
+
+## Overview
+
+Welcome to **Artifact**, a Java-based 2D platformer developed to showcase engaging gameplay, dynamic mechanics, and creative level design. This project is built using Java and leverages tools like Git and GitHub for version control and collaboration.
+
+## Features
+
+- **Dynamic Gameplay**: Jump, run, and navigate through challenging levels.
+- **Combat System**: Defeat monsters and powerful bosses.
+- **Customizable Levels**: Easily create and modify levels to extend gameplay.
+- **Responsive Controls**: Smooth and intuitive player movement.
+- **Retro Aesthetics**: Classic pixel art and nostalgic sound effects.
+
+## Technologies Used
+
+- **Java**: Core programming language for the game.
+- **Git**: Version control to track changes and collaborate.
+- **GitHub**: Repository hosting and issue tracking.
+- **Integrated Development Environment (IDE)**: Eclipse/IntelliJ IDEA (or your preferred Java IDE).
+- **Other Libraries**: (Add any third-party libraries or frameworks used).
+
+## How to Play
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/artifact.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd artifact
+   ```
+3. Open the project in your preferred Java IDE.
+4. Build and run the game to start playing.
+
+## Game Controls
+
+- **Move**: →, ←
+- **Attack**: R
+- **Jump**: W
+- **Dash**: F
+- **Objective**: Defeat all the enemies to pass the level.
+
+## Development Setup
+
+1. Ensure you have Java JDK (version X or later) installed.
+2. Install Git and set up GitHub for version control.
+3. Import the project into your Java IDE.
+
+## Contribution Guidelines
+
+Contributions are welcome! Follow these steps to contribute:
+
+1. Fork the repository on GitHub.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Description of changes"
+   ```
+4. Push your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Create a pull request on GitHub.
+
+
+
+This project is licensed under the MIT License.Contact
+
+For questions or suggestions, reach out:
+
+- **Email**: [your-email@example.com](mailto\:your-email@example.com)
+- **GitHub**: [yourusername](https://github.com/yourusername)
+
