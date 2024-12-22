@@ -1,11 +1,9 @@
 # Artifact
 
 ## Overview
-
 Welcome to **Artifact**, a Java-based 2D platformer developed to showcase engaging gameplay, dynamic mechanics, and creative level design. This project is built using Java and leverages tools like Git and GitHub for version control and collaboration.
 
 ## Features
-
 - **Dynamic Gameplay**: Jump, run, and navigate through challenging levels.
 - **Combat System**: Defeat monsters and powerful bosses.
 - **Customizable Levels**: Easily create and modify levels to extend gameplay.
@@ -13,7 +11,6 @@ Welcome to **Artifact**, a Java-based 2D platformer developed to showcase engagi
 - **Retro Aesthetics**: Classic pixel art and nostalgic sound effects.
 
 ## Technologies Used
-
 - **Java**: Core programming language for the game.
 - **Git**: Version control to track changes and collaborate.
 - **GitHub**: Repository hosting and issue tracking.
@@ -21,20 +18,19 @@ Welcome to **Artifact**, a Java-based 2D platformer developed to showcase engagi
 - **Other Libraries**: (Add any third-party libraries or frameworks used).
 
 ## How to Play
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/artifact.git
+   git clone https://github.com/yourusername/oop_PRJ_ARTIFACT.git
+
    ```
 2. Navigate to the project directory:
    ```bash
-   cd artifact
+   cd oop_PRJ_ARTIFACT
    ```
 3. Open the project in your preferred Java IDE.
 4. Build and run the game to start playing.
 
 ## Game Controls
-
 - **Move**: →, ←
 - **Attack**: R
 - **Jump**: W
@@ -42,15 +38,12 @@ Welcome to **Artifact**, a Java-based 2D platformer developed to showcase engagi
 - **Objective**: Defeat all the enemies to pass the level.
 
 ## Development Setup
-
 1. Ensure you have Java JDK (version X or later) installed.
 2. Install Git and set up GitHub for version control.
 3. Import the project into your Java IDE.
 
 ## Contribution Guidelines
-
 Contributions are welcome! Follow these steps to contribute:
-
 1. Fork the repository on GitHub.
 2. Create a feature branch:
    ```bash
@@ -67,11 +60,7 @@ Contributions are welcome! Follow these steps to contribute:
 5. Create a pull request on GitHub.
 
 
-
-This project is licensed under the MIT License.Contact
-
+## Contact
 For questions or suggestions, reach out:
-
-- **Email**: [your-email@example.com](mailto\:your-email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
+- **Email**: hnan.ityu@gmail.com
+- **GitHub**: [yourusername](https://github.com/KyungUwU)
