@@ -20,12 +20,12 @@ Welcome to **Artifact**, a Java-based 2D platformer developed to showcase engagi
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/oop_PRJ_ARTIFACT.git
+   git clone https://github.com/KyungUwU/Artifact.git
 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd oop_PRJ_ARTIFACT
+   cd Artifact
    ```
 3. Open the project in your preferred Java IDE.
 4. Build and run the game to start playing.
